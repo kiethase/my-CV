@@ -22,10 +22,13 @@ const Appbar = (props) => {
                     <IconAndNicknameWrapper>
                         <Logo themeWeb={themeWeb}/>
 
-                        <Name>KietHASE</Name>
+                        <Name>KietHASE </Name>
                     </IconAndNicknameWrapper>
                     <TabWrapper>
                         Work
+                    </TabWrapper>
+                    <TabWrapper>
+                        More
                     </TabWrapper>
                 </LeftBoxWrapper>
                 <RightBoxWrapper>
